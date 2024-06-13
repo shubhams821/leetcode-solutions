@@ -7,6 +7,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhams821/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhams821/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
 # Hash Table
@@ -34,6 +35,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhams821/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhams821/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 # Stack
 |  |
