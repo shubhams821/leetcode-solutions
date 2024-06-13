@@ -5,6 +5,7 @@ my leetcode practise solutions repository
 # Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
 # Hash Table
@@ -32,3 +33,11 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
+# Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
