@@ -19,3 +19,11 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
+# Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
