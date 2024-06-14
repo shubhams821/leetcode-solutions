@@ -6,6 +6,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhams821/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhams821/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
@@ -34,6 +35,7 @@ my leetcode practise solutions repository
 # Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhams821/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
 # Dynamic Programming
@@ -76,3 +78,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhams821/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+# Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
