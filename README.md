@@ -51,6 +51,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@ my leetcode practise solutions repository
 # Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0283-move-zeroes) |
 # Interactive
 |  |
@@ -88,3 +90,11 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
+# Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
