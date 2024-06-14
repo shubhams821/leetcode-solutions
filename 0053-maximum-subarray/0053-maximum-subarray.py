@@ -4,9 +4,11 @@ class Solution:
         res =0
 
         for i in nums:
-            if res <0:
+            res+=i
+            msum = max(res, msum)
+            if res<0:
                 res =0
-            res +=i
-
-            msum = max(res,msum)
+           
+            
+            print(res)
         return msum
