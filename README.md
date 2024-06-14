@@ -14,6 +14,7 @@ my leetcode practise solutions repository
 | [0283-move-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
+| [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
 # Hash Table
 |  |
 | ------- |
@@ -98,3 +99,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
