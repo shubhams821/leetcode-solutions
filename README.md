@@ -24,6 +24,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/shubhams821/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
 # Trie
 |  |
@@ -51,6 +52,7 @@ my leetcode practise solutions repository
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Monotonic Stack
