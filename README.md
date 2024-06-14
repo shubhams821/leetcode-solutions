@@ -34,6 +34,7 @@ my leetcode practise solutions repository
 # Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shubhams821/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
 # Dynamic Programming
 |  |
@@ -71,3 +72,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0283-move-zeroes) |
+# Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shubhams821/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
