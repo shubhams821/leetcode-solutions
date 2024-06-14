@@ -12,6 +12,7 @@ my leetcode practise solutions repository
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
 # Hash Table
 |  |
@@ -45,6 +46,7 @@ my leetcode practise solutions repository
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhams821/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
+| [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
 # Stack
 |  |
 | ------- |
@@ -82,3 +84,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+# Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
