@@ -3,9 +3,10 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        l =0
-        for r in range(len(nums)):
-            if nums[r]:
-                nums[l],nums[r] = nums[r],nums[l]
-                l+=1
+        i =0
+
+        for j in range(len(nums)):
+            if nums[j]:
+                nums[i],nums[j]= nums[j], nums[i]
+                i+=1
         return nums
