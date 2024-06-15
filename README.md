@@ -100,10 +100,12 @@ my leetcode practise solutions repository
 # Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Heap (Priority Queue)
 |  |
