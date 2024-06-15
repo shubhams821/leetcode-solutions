@@ -11,7 +11,7 @@ class Solution:
         while fast and fast.next:
             fast = fast.next.next
             slow = slow.next
-
+        
         #reverse the linked list
         prev = None
         while slow:
@@ -20,7 +20,7 @@ class Solution:
             prev = slow
             slow = tmp
 
-        # check palindrome
+        #check palindrome
         left, right = head, prev
         while right:
             if left.val != right.val:
