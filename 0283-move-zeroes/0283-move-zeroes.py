@@ -5,8 +5,8 @@ class Solution:
         """
         i =0
 
-        for j in range(len(nums)):
-            if nums[j]:
-                nums[i],nums[j]= nums[j], nums[i]
+        for r in range(len(nums)):
+            if nums[r]:
+                nums[i],nums[r]= nums[r],nums[i]
                 i+=1
         return nums
