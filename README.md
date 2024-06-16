@@ -10,6 +10,7 @@ my leetcode practise solutions repository
 | [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhams821/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -41,6 +42,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhams821/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
