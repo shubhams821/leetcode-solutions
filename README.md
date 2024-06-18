@@ -20,6 +20,7 @@ my leetcode practise solutions repository
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ my leetcode practise solutions repository
 | [0008-string-to-integer-atoi](https://github.com/shubhams821/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Trie
 |  |
 | ------- |
@@ -73,12 +75,14 @@ my leetcode practise solutions repository
 | [0053-maximum-subarray](https://github.com/shubhams821/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Counting
 |  |
 | ------- |
@@ -122,6 +126,7 @@ my leetcode practise solutions repository
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Sliding Window
 |  |
 | ------- |
@@ -138,3 +143,4 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
