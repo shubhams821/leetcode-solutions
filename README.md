@@ -66,6 +66,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0020-valid-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Monotonic Stack
 |  |
@@ -96,6 +97,7 @@ my leetcode practise solutions repository
 # Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -116,11 +118,13 @@ my leetcode practise solutions repository
 # Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 # Heap (Priority Queue)
