@@ -14,6 +14,7 @@ my leetcode practise solutions repository
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
@@ -71,10 +72,12 @@ my leetcode practise solutions repository
 | ------- |
 | [0053-maximum-subarray](https://github.com/shubhams821/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 # Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 # Counting
 |  |
@@ -116,6 +119,7 @@ my leetcode practise solutions repository
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
 # Sliding Window
@@ -130,3 +134,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shubhams821/leetcode-solutions/tree/master/0078-subsets) |
+# Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
