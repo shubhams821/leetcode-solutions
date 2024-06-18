@@ -1,11 +1,11 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        ctoo = {')':'(','}':'{',']':'['}
+        ctoo = {']':'[','}':'{',')':'('}
 
         for i in s:
             if i in ctoo:
-                if stack and ctoo[i]==stack[-1]:
+                if stack and stack[-1]==ctoo[i]:
                     stack.pop()
                 else:
                     return False
