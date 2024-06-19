@@ -5,6 +5,7 @@ my leetcode practise solutions repository
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shubhams821/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shubhams821/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shubhams821/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0064-minimum-path-sum) |
@@ -50,6 +51,7 @@ my leetcode practise solutions repository
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/shubhams821/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/shubhams821/leetcode-solutions/tree/master/0367-valid-perfect-square) |
