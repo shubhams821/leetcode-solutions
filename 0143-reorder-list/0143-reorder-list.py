@@ -16,13 +16,13 @@ class Solution:
         
         second = slow.next
         prev = slow.next = None
-        while(second):
+        while second:
             tmp = second.next
             second.next = prev
             prev = second
             second = tmp
-        
-        #merge two list
+
+        # merge two list
         first, second = head, prev
 
         while second:
@@ -30,3 +30,4 @@ class Solution:
             first.next = second
             second.next = tmp1
             first, second = tmp1, tmp2
+
