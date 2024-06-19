@@ -21,6 +21,7 @@ my leetcode practise solutions repository
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Hash Table
@@ -44,6 +45,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 # Binary Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ my leetcode practise solutions repository
 | [0053-maximum-subarray](https://github.com/shubhams821/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Sorting
 |  |
@@ -88,6 +91,7 @@ my leetcode practise solutions repository
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Counting
 |  |
@@ -137,6 +141,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Sliding Window
@@ -155,4 +160,9 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+# Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
