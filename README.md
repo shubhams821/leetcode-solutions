@@ -44,6 +44,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/shubhams821/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/shubhams821/leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 # Binary Search
@@ -51,6 +52,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/shubhams821/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubhams821/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shubhams821/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
