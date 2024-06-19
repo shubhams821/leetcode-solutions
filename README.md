@@ -20,6 +20,7 @@ my leetcode practise solutions repository
 | [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
 | [0648-replace-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1127-last-stone-weight](https://github.com/shubhams821/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 # Hash Table
@@ -68,10 +69,12 @@ my leetcode practise solutions repository
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 # Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 # Divide and Conquer
 |  |
 | ------- |
