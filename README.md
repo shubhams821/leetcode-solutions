@@ -12,6 +12,7 @@ my leetcode practise solutions repository
 | [0074-search-a-2d-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shubhams821/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhams821/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhams821/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shubhams821/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shubhams821/leetcode-solutions/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ my leetcode practise solutions repository
 | [0055-jump-game](https://github.com/shubhams821/leetcode-solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhams821/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0494-target-sum) |
