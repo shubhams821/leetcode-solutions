@@ -181,12 +181,14 @@ my leetcode practise solutions repository
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -194,6 +196,7 @@ my leetcode practise solutions repository
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
