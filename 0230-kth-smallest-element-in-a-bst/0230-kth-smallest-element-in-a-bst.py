@@ -18,4 +18,4 @@ class Solution:
             if n==k:
                 return curr.val
             curr = curr.right
-        
+            
