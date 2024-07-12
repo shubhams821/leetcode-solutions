@@ -11,7 +11,7 @@ class Solution:
         if key> root.val:
             root.right = self.deleteNode(root.right, key)
         elif key < root.val:
-            root.left = self.deleteNode(root.left, key)
+            root.left = self. deleteNode(root.left, key)
         else:
             if not root.right:
                 return root.left
@@ -21,5 +21,5 @@ class Solution:
             while curr.left:
                 curr = curr.left
             root.val = curr.val
-            root.right = self.deleteNode(root.right, root.val)
+            root.right = self.deleteNode(root.right,root.val)
         return root
