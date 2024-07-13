@@ -222,6 +222,7 @@ my leetcode practise solutions repository
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@ my leetcode practise solutions repository
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -282,6 +284,7 @@ my leetcode practise solutions repository
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
