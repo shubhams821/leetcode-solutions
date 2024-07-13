@@ -290,9 +290,14 @@ my leetcode practise solutions repository
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shubhams821/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shubhams821/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
