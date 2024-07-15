@@ -222,6 +222,7 @@ my leetcode practise solutions repository
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -235,6 +236,7 @@ my leetcode practise solutions repository
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@ my leetcode practise solutions repository
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shubhams821/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@ my leetcode practise solutions repository
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
