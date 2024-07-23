@@ -8,7 +8,7 @@ class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         res = [root.val]
 
-        #return apth without split
+        #return path without split
         def dfs(root):
             if not root:
                 return 0
@@ -18,7 +18,7 @@ class Solution:
             rightMax = max(0, rightMax)
 
             #compute max sum with split
-            res[0] = max(res[0], root.val + leftMax + rightMax)
+            res[0] = max(res[0], root.val + leftMax+ rightMax)
             return root.val + max(leftMax, rightMax)
         dfs(root)
         return res[0]
