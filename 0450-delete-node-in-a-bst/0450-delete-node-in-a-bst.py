@@ -10,12 +10,12 @@ class Solution:
             return root
         if key > root.val:
             root.right = self.deleteNode(root.right, key)
-        elif key < root.val:
+        elif key< root.val:
             root.left = self.deleteNode(root.left, key)
         else:
             if not root.right:
                 return root.left
-            elif not root.right:
+            elif not root.left:
                 return root.right
             curr = root.right
             while curr.left:
@@ -23,3 +23,4 @@ class Solution:
             root.val = curr.val
             root.right = self.deleteNode(root.right, root.val)
         return root
+        
