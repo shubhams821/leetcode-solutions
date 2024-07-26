@@ -9,7 +9,7 @@ class Solution:
         def dfs(root, maxVal):
             if not root:
                 return 0
-            res = 1 if root.val >= maxVal else 0
+            res = 1 if root.val>=maxVal else 0
             maxVal = max(maxVal, root.val)
             res+= dfs(root.left, maxVal)
             res+= dfs(root.right, maxVal)
