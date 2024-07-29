@@ -289,6 +289,7 @@ my leetcode practise solutions repository
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -312,10 +313,12 @@ my leetcode practise solutions repository
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Stack
 |  |
@@ -347,4 +350,8 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
