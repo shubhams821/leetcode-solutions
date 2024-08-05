@@ -6,8 +6,8 @@
 #         self.right = right
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
-        q = collections.deque([root])
         res = []
+        q = collections.deque([root])
         while q:
             qLen = len(q)
             leftSide = None
@@ -19,5 +19,4 @@ class Solution:
                     q.append(node.left)
             if leftSide:
                 res.append(leftSide.val)
-        print(res)
         return res[-1]
