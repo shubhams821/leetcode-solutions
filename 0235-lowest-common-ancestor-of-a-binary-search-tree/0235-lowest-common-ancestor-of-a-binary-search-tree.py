@@ -9,10 +9,10 @@ class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         curr = root
         while curr:
-            if curr.val > p.val and curr.val >q.val:
-                curr = curr.left
-            elif curr.val < p.val and curr.val < q.val:
+            if q.val > curr.val and p.val > curr.val:
                 curr = curr.right
+            elif q.val < curr.val and p.val < curr.val:
+                curr = curr.left
             else:
                 return curr
-            
+        return curr
