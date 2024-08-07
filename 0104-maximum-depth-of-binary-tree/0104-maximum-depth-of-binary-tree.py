@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
-        res =-1
+        res = -1
         q = collections.deque([root])
         while q:
             qLen = len(q)
