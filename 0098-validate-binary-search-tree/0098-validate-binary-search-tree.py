@@ -9,8 +9,7 @@ class Solution:
         def valid(node, low, high):
             if not node:
                 return True
-            if node.val <= low or node.val >= high:
+            if node.val <=low or node.val>= high:
                 return False
-            else:
-                return valid(node.left, low, node.val) and valid(node.right, node.val, high)
+            return valid(node.left, low, node.val) and valid(node.right, node.val, high)
         return valid(root, float("-inf"), float("inf"))
