@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
-        res = []
+        res =  []
         q = collections.deque([root])
         while q:
             qLen = len(q)
