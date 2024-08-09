@@ -8,7 +8,7 @@ class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         stack =[]
         curr = root
-        i =0
+        i = 0
         while stack or curr:
             while curr:
                 stack.append(curr)
