@@ -298,12 +298,14 @@ my leetcode practise solutions repository
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 ## Array
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
