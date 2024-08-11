@@ -380,6 +380,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shubhams821/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -409,4 +410,8 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
