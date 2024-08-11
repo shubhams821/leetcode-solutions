@@ -308,6 +308,7 @@ my leetcode practise solutions repository
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
@@ -325,6 +326,7 @@ my leetcode practise solutions repository
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## String
@@ -391,4 +393,20 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/shubhams821/leetcode-solutions/tree/master/0133-clone-graph) |
+## Two Pointers
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Sorting
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
