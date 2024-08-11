@@ -8,8 +8,9 @@ class Solution:
         prev = None
         slow = head
         while slow:
-            tmp = slow.next
+            tmp = slow.next 
             slow.next = prev
             prev = slow
             slow = tmp
-        return prev
+            print(prev.val)
+        return prev      
