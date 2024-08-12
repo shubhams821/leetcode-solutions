@@ -251,6 +251,7 @@ my leetcode practise solutions repository
 | [0543-diameter-of-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -267,6 +268,7 @@ my leetcode practise solutions repository
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/shubhams821/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -311,6 +313,7 @@ my leetcode practise solutions repository
 | [0200-number-of-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
@@ -379,6 +382,7 @@ my leetcode practise solutions repository
 | [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 ## Linked List
 |  |
@@ -389,6 +393,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 ## Hash Table
 |  |
