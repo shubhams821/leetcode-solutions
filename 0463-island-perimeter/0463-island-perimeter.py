@@ -9,11 +9,11 @@ class Solution:
                 return 0
             visit.add((i,j))
             perim = dfs(i,j+1)
-            perim += dfs(i+1, j)
-            perim += dfs(i, j-1)
-            perim += dfs(i-1,j)
+            perim += dfs(i+1,j)
+            perim += dfs(i,j-1)
+            perim += dfs(i-1, j)
             return perim
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
+        for i in range(rows):
+            for j in range(cols):
                 if grid[i][j]:
                     return dfs(i,j)
