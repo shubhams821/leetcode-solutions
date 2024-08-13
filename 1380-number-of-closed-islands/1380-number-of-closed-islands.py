@@ -5,7 +5,7 @@ class Solution:
         def dfs(i,j):
             if i not in range(Rows) or j not in range(Cols):
                 return 0
-            if grid[i][j] ==1 or (i,j) in visit:
+            if grid[i][j] == 1 or (i,j) in visit:
                 return 1
             visit.add((i,j))
             return min(dfs(i,j+1),
@@ -13,8 +13,8 @@ class Solution:
                         dfs(i,j-1),
                         dfs(i-1,j))
         res =0
-        for i in range(Rows):
-            for j in range(Cols):
-                if not grid[i][j] and (i,j) not in visit:
-                    res+= dfs(i,j)
+        for r in range(Rows):
+            for c in range(Cols):
+                if grid[r][c] ==0 and (r,c) not in visit:
+                    res += dfs(r,c)
         return res
