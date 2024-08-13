@@ -4,7 +4,7 @@ class Solution:
 
         res = [[float("inf")]*(Cols+1) for i in range(Rows+1)]
         res[Rows-1][Cols] = 0
-        for r in range(Rows-1, -1,-1):
+        for r in range(Rows-1,-1,-1):
             for c in range(Cols-1,-1,-1):
-                res[r][c] = min(res[r+1][c], res[r][c+1]) + grid[r][c]
+                res[r][c] = min(res[r+1][c], res[r][c+1])+grid[r][c]
         return res[0][0]
