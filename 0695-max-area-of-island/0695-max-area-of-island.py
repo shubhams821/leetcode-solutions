@@ -1,5 +1,7 @@
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        if not grid:
+            return 0
         Rows, Cols = len(grid), len(grid[0])
         visit = set()
         def dfs(i,j):
@@ -14,5 +16,6 @@ class Solution:
         for r in range(Rows):
             for c in range(Cols):
                 if grid[r][c] and (r,c) not in visit:
-                    res = max(res, dfs(r,c))
-        return res 
+                    temp = dfs(r,c)
+                    res = max(temp, res)
+        return res
