@@ -11,11 +11,13 @@ class Solution:
                 return 0
             visit.add((i,j))
             perim = dfs(i,j+1)
-            perim += dfs(i+1,j)
+            perim += dfs(i+1, j)
             perim += dfs(i,j-1)
             perim += dfs(i-1,j)
             return perim
+        res =0
         for r in range(Rows):
             for c in range(Cols):
                 if grid[r][c] and (r,c) not in visit:
-                    return dfs(r,c)
+                    res +=dfs(r,c)
+        return res
