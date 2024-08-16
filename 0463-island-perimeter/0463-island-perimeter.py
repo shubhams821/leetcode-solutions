@@ -1,10 +1,7 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        # if not grid:
-        #     return 0
         Rows, Cols = len(grid), len(grid[0])
         visit = set()
-
         def dfs(i,j):
             if i not in range(Rows) or j not in range(Cols) or not grid[i][j]:
                 return 1
@@ -16,9 +13,9 @@ class Solution:
             perim += dfs(i,j-1)
             perim += dfs(i-1,j)
             return perim
-        res = 0
+        res =0 
         for r in range(Rows):
             for c in range(Cols):
-                if grid[r][c] and (r,c) not in visit:
+                if grid[r][c] or (r,c) in visit:
                     res += dfs(r,c)
         return res
