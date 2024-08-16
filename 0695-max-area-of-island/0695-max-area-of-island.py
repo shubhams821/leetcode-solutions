@@ -9,15 +9,13 @@ class Solution:
             if (i,j) in visit:
                 return 0
             visit.add((i,j))
-            return (1 + dfs(i,j+1)+
-                        dfs(i+1,j)+
-                        dfs(i,j-1)+
-                        dfs(i-1,j))
+            return (1 + dfs(i,j+1)
+                    + dfs(i+1,j)
+                    + dfs(i,j-1)
+                    + dfs(i-1,j))
         res = 0
         for r in range(Rows):
             for c in range(Cols):
-                if grid[r][c] and(r,c) not in visit:
-                    tmp = dfs(r,c)
-                    res = max(res,tmp)
-
+                if grid[r][c] or (r,c) not in visit:
+                    res = max(res, dfs(r,c))
         return res
