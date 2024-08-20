@@ -13,9 +13,7 @@ class Solution:
             perim += dfs(i,j-1)
             perim += dfs(i-1,j)
             return perim
-        res =0 
         for r in range(Rows):
             for c in range(Cols):
-                if grid[r][c] or (r,c) in visit:
-                    res += dfs(r,c)
-        return res
+                if (r,c) not in visit and grid[r][c]:
+                    return dfs(r,c)
