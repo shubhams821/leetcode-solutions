@@ -15,5 +15,5 @@ class Solution:
             return perim
         for r in range(Rows):
             for c in range(Cols):
-                if (r,c) not in visit and grid[r][c]:
+                if grid[r][c] and (r,c) not in visit:
                     return dfs(r,c)
