@@ -8,13 +8,10 @@ class Solution:
             if (i,j) in visit or grid[i][j]:
                 return 1
             visit.add((i,j))
-            return min(dfs(i,j+1),
-                        dfs(i+1,j),
-                        dfs(i,j-1),
-                        dfs(i-1,j))
-        res =0
+            return min(dfs(i,j+1),dfs(i+1,j), dfs(i,j-1), dfs(i-1,j))
+        res = 0
         for r in range(Rows):
             for c in range(Cols):
-                if (r,c) not in visit and not grid[r][c]:
+                if not grid[r][c]  and (r,c) not in visit:
                     res += dfs(r,c)
         return res
