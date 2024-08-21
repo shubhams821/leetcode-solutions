@@ -1,20 +1,19 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        preMap = { i:[] for i in range(numCourses)}
+        preMap = {i:[] for i in range(numCourses)}
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
-
-        #Visitset = All the courses along the curr DFS path
-        visitSet = set()
+        #VisitSet = All the courses along the curr DFS Path
+        visit = set()
         def dfs(crs):
-            if crs in visitSet:
+            if crs in visit:
                 return False
-            if preMap[crs] == []:
+            if preMap[crs] ==[]:
                 return True
-            visitSet.add(crs)
+            visit.add(crs)
             for pre in preMap[crs]:
                 if not dfs(pre): return False
-            visitSet.remove(crs)
+            visit.remove(crs)
             preMap[crs] = []
             return True
         for crs in range(numCourses):
