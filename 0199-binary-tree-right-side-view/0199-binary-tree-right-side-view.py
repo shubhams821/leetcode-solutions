@@ -6,11 +6,11 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        res = []
         q = collections.deque([root])
+        res =[]
         while q:
-            qLen = len(q)
             rightSide = None
+            qLen = len(q)
             for i in range(qLen):
                 node = q.popleft()
                 if node:
