@@ -210,6 +210,7 @@ my leetcode practise solutions repository
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -235,6 +236,7 @@ my leetcode practise solutions repository
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -286,6 +288,7 @@ my leetcode practise solutions repository
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -368,6 +371,7 @@ my leetcode practise solutions repository
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shubhams821/leetcode-solutions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
