@@ -460,4 +460,8 @@ my leetcode practise solutions repository
 | ------- |
 | [0207-course-schedule](https://github.com/shubhams821/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shubhams821/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0899-binary-gap](https://github.com/shubhams821/leetcode-solutions/tree/master/0899-binary-gap) |
 <!---LeetCode Topics End-->
