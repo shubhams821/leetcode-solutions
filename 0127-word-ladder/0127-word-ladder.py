@@ -1,7 +1,5 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        # if beginWord in wordList:
-        #     return 0
         nei = collections.defaultdict(list)
         wordList.append(beginWord)
 
@@ -11,7 +9,7 @@ class Solution:
                 nei[pattern].append(word)
         visit = set([beginWord])
         q = deque([beginWord])
-        res =1 
+        res = 1
         while q:
             for i in range(len(q)):
                 word = q.popleft()
