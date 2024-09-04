@@ -3,16 +3,27 @@ class Solution:
         Rows, Cols = len(grid), len(grid[0])
         visit = set()
 
-        def dfs(i,j):
-            if i not in range(Rows) or j not in range(Cols):
-                return 0
-            if (i,j) in visit or grid[i][j]:
-                return 1
+        def bfs(i,j):
+            q = collections.deque()
+            q.append([i,j])
             visit.add((i,j))
-            return min(dfs(i,j+1), dfs(i+1,j),dfs(i,j-1),dfs(i-1,j))
-        res = 0
+            flag = False
+            while q:
+                for i in range(len(q)):
+                    row, col = q.popleft()
+                    directions =[[1,0],[0,1],[-1,0],[0,-1]]
+                    for dr, dc in directions:
+                        r,c = row+dr, col+dc
+                        if r in range(Rows) and c in range(Cols) and (r,c) not in visit and not grid[r][c]:
+                            q.append([r,c])
+                            visit.add((r,c))
+                        if r not in range(Rows) or c not in range(Cols):
+                            flag = True
+            return 1 if not flag else 0
+        
+        island = 0
         for r in range(Rows):
             for c in range(Cols):
                 if not grid[r][c] and (r,c) not in visit:
-                    res += dfs(r,c)
-        return res
+                    island += bfs(r,c)
+        return island
