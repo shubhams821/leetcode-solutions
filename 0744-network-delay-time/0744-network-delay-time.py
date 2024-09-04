@@ -1,6 +1,6 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        edges = collections.defaultdict(list)
+        edges = collections.defaultdict((list))
         for u,v,w in times:
             edges[u].append((v,w))
 
@@ -15,5 +15,5 @@ class Solution:
             t = max(t, w1)
             for n2, w2 in edges[n1]:
                 if n2 not in visit:
-                    heapq.heappush(minHeap,(w1+w2, n2))
-        return t if len(visit)==n else -1
+                    heapq.heappush(minHeap, (w1+w2, n2))
+        return t if len(visit) == n else -1
