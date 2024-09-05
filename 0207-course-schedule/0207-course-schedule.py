@@ -9,7 +9,7 @@ class Solution:
             if crs in cycle: return False
             if crs in visit: return True
             cycle.add(crs)
-            for pre in preMap[crs]:
+            for pre in preMap[crs]: 
                 if not dfs(pre): return False
             cycle.remove(crs)
             visit.add(crs)
