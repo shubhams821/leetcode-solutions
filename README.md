@@ -261,6 +261,7 @@ my leetcode practise solutions repository
 | [0669-trim-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -286,6 +287,7 @@ my leetcode practise solutions repository
 | [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -343,6 +345,7 @@ my leetcode practise solutions repository
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -368,6 +371,7 @@ my leetcode practise solutions repository
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## String
 |  |
@@ -422,6 +426,7 @@ my leetcode practise solutions repository
 | [0417-pacific-atlantic-water-flow](https://github.com/shubhams821/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 ## Linked List
 |  |
@@ -435,6 +440,7 @@ my leetcode practise solutions repository
 | [0130-surrounded-regions](https://github.com/shubhams821/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 ## Hash Table
 |  |
@@ -467,6 +473,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Recursion
 |  |
