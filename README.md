@@ -264,6 +264,7 @@ my leetcode practise solutions repository
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shubhams821/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -291,6 +292,7 @@ my leetcode practise solutions repository
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shubhams821/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -348,6 +350,7 @@ my leetcode practise solutions repository
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
@@ -429,6 +432,7 @@ my leetcode practise solutions repository
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 ## Linked List
 |  |
