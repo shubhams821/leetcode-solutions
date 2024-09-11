@@ -1,13 +1,10 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        adj = {i: nodes for i, nodes in enumerate(graph)}
-        cycle, safe  = set(), set()
-
+        adj = {i:nei for i, nei in enumerate(graph)}
+        cycle, safe = set(), set()
         def dfs(node):
-            if node in cycle: 
-                return False
-            if node in safe:
-                return True
+            if node in cycle: return False
+            if node in safe: return True
             cycle.add(node)
             for nei in adj[node]:
                 if not dfs(nei): return False
@@ -19,4 +16,6 @@ class Solution:
             if node not in cycle:
                 if dfs(node):
                     output.append(node)
+        
         return output
+            
