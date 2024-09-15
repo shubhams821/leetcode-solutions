@@ -1,21 +1,22 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
-        adj = {i:nei for i, nei in enumerate(graph)}
-        cycle, safe = set(), set()
+        adj = {i:[] for i in range(len(graph))}
+        for i, lst in enumerate(graph):
+            adj[i].extend(lst)
+        # print(adj)
+        visit, cycle = set(), set()
+        output = []
         def dfs(node):
             if node in cycle: return False
-            if node in safe: return True
+            if node in visit: return True
             cycle.add(node)
             for nei in adj[node]:
                 if not dfs(nei): return False
             cycle.remove(node)
-            safe.add(node)
+            visit.add(node)
+            # print(node)
+            output.append(node)
             return True
-        output = []
-        for node in range(len(graph)):
-            if node not in cycle:
-                if dfs(node):
-                    output.append(node)
-        
-        return output
-            
+        for i in adj:
+            dfs(i)
+        return sorted(output)
