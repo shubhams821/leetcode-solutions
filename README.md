@@ -331,6 +331,7 @@ my leetcode practise solutions repository
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1025-minimum-cost-for-tickets](https://github.com/shubhams821/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 ## Array
 |  |
 | ------- |
@@ -353,6 +354,7 @@ my leetcode practise solutions repository
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1025-minimum-cost-for-tickets](https://github.com/shubhams821/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/shubhams821/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
