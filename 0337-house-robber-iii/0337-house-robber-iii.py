@@ -12,7 +12,6 @@ class Solution:
             left = dfs(node.left)
             right = dfs(node.right)
             withRoot = node.val + left[1] + right[1]
-            withoutRoot = max(left[0], left[1]) + max(right[0], right[1])
+            withoutRoot = max(left) + max(right)
             return [withRoot, withoutRoot]
-        [a,b] = dfs(root)
-        return max(a,b)
+        return max(dfs(root))
