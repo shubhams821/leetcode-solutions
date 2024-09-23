@@ -297,6 +297,7 @@ my leetcode practise solutions repository
 | [0820-find-eventual-safe-states](https://github.com/shubhams821/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/shubhams821/leetcode-solutions/tree/master/1036-rotting-oranges) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/shubhams821/leetcode-solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -481,6 +482,7 @@ my leetcode practise solutions repository
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shubhams821/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/shubhams821/leetcode-solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shubhams821/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
