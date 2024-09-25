@@ -9,9 +9,9 @@ class Solution:
         def dfs(node):
             if not node:
                 return [0,0]
-            
             left = dfs(node.left)
             right = dfs(node.right)
+
             withRoot = node.val + left[1] + right[1]
             withoutRoot = max(left) + max(right)
             return [withRoot, withoutRoot]
