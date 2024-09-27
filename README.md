@@ -359,6 +359,7 @@ my leetcode practise solutions repository
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0729-my-calendar-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
@@ -390,6 +391,7 @@ my leetcode practise solutions repository
 | [0450-delete-node-in-a-bst](https://github.com/shubhams821/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0729-my-calendar-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0729-my-calendar-i) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -422,6 +424,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shubhams821/leetcode-solutions/tree/master/0155-min-stack) |
+| [0729-my-calendar-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0729-my-calendar-i) |
 ## Simulation
 |  |
 | ------- |
@@ -536,4 +539,12 @@ my leetcode practise solutions repository
 | ------- |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/shubhams821/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
