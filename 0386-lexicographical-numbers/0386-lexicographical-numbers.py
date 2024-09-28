@@ -6,7 +6,8 @@ class Solution:
                 return
             res.append(curr)
             for i in range(10):
-                dfs(curr*10 +i)
-        for i in range(1,10):
+                dfs(curr*10 + i)
+        for i in range(1, 10):
             dfs(i)
         return res
+        
