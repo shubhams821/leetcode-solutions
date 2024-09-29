@@ -438,6 +438,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/shubhams821/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -516,6 +517,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shubhams821/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Interactive
 |  |
 | ------- |
@@ -529,6 +531,7 @@ my leetcode practise solutions repository
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shubhams821/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0899-binary-gap](https://github.com/shubhams821/leetcode-solutions/tree/master/0899-binary-gap) |
 ## Shortest Path
 |  |
