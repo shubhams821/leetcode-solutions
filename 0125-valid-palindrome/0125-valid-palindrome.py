@@ -6,5 +6,4 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         s = re.sub('[^A-Za-z0-9]+', '', s)
         l,r = 0, len(s)-1
-        print(s)
         return self.recur(s.lower(), l,r)
