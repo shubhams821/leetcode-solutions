@@ -399,6 +399,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/shubhams821/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shubhams821/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
@@ -490,6 +491,7 @@ my leetcode practise solutions repository
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shubhams821/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
