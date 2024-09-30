@@ -371,6 +371,7 @@ my leetcode practise solutions repository
 | [1036-rotting-oranges](https://github.com/shubhams821/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shubhams821/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
@@ -422,11 +423,13 @@ my leetcode practise solutions repository
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
