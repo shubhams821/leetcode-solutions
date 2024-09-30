@@ -402,6 +402,7 @@ my leetcode practise solutions repository
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/shubhams821/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/shubhams821/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/shubhams821/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -416,6 +417,7 @@ my leetcode practise solutions repository
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/shubhams821/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shubhams821/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
