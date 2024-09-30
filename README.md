@@ -358,6 +358,7 @@ my leetcode practise solutions repository
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhams821/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shubhams821/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0729-my-calendar-i) |
@@ -416,6 +417,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shubhams821/leetcode-solutions/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
@@ -423,6 +425,7 @@ my leetcode practise solutions repository
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -485,6 +488,7 @@ my leetcode practise solutions repository
 | [0127-word-ladder](https://github.com/shubhams821/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shubhams821/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
+| [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Graph
 |  |
 | ------- |
