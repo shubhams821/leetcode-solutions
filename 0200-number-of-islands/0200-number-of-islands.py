@@ -1,24 +1,21 @@
 def numIslands(grid: List[List[str]]) -> int:
 
 
-    row, col = len(grid), len(grid[0])
+    Rows, Cols = len(grid), len(grid[0])
+    visit = set()
+    def dfs(r,c):
+        if r not in range(Rows) or c not in range(Cols) or grid[r][c] == "0" or (r,c) in visit:
+            return
+        visit.add((r,c))
+        directions = [[1,0],[0,1],[-1,0],[0,-1]]
+        for dr,dc in directions:
+            dfs(r+dr, c+dc)
     res = 0
-    def dfs(r,c,grid):         
-        grid[r][c] = "0"
-        if r < row -1 and grid[r+1][c] == "1":
-            dfs(r+1,c,grid)
-        if r > 0 and grid[r-1][c] == "1":
-            dfs(r-1,c,grid)
-        if c < col -1 and grid[r][c+1] == "1":
-            dfs(r,c+1,grid)
-        if c > 0 and grid[r][c-1] == "1":
-            dfs(r,c-1,grid)
-
-    for r in range(row):
-        for c in range(col):
-            if grid[r][c] == "1":
-                dfs(r,c,grid)
-                res+=1
+    for r in range(Rows):
+        for c in range(Cols):
+            if grid[r][c] == "1" and (r,c) not in visit:
+                dfs(r,c)
+                res +=1
     return res
 
 
