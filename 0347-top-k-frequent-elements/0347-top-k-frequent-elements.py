@@ -3,10 +3,13 @@ class Solution:
         freq = {}
         for i in nums:
             freq[i] = freq.get(i,0)+ 1
-        freq_lst = [(-v,k) for k,v in freq.items()]
-        heapify(freq_lst)
+        
+        freq_lst = []
+        for k1,v in freq.items():
+            heapq.heappush(freq_lst, (-v,k1))
+        print(freq_lst)
         res = []
         for i in range(k):
-            v,k = heapq.heappop(freq_lst)
-            res.append(k)
+            v,k1 = heapq.heappop(freq_lst)
+            res.append(k1)
         return res
