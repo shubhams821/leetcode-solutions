@@ -1,13 +1,10 @@
 class Solution:
     def frequencySort(self, s: str) -> str:
-        freq = {}
-        for i in s:
-            freq[i] = freq.get(i,0) +1
-        res = []
-        for k,v in freq.items():
-            res.append([v,k])
-        res = sorted(res, reverse = True)
+        counter = Counter(s)
+        freq = [(-v,k) for k,v in counter.items()]
+        heapify(freq)
         new = ""
-        for v,k in res:
-            new += k*v
+        while freq:
+            v1, k1 = heapq.heappop(freq)
+            new += k1*(-v1)
         return new
