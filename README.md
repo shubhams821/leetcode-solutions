@@ -414,6 +414,7 @@ my leetcode practise solutions repository
 | [0127-word-ladder](https://github.com/shubhams821/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
@@ -502,6 +503,7 @@ my leetcode practise solutions repository
 | [0133-clone-graph](https://github.com/shubhams821/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Graph
 |  |
@@ -529,6 +531,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
@@ -536,6 +539,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
@@ -590,10 +594,12 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
