@@ -358,6 +358,7 @@ my leetcode practise solutions repository
 | [0213-house-robber-ii](https://github.com/shubhams821/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/shubhams821/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhams821/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shubhams821/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -382,6 +383,7 @@ my leetcode practise solutions repository
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhams821/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -496,6 +498,7 @@ my leetcode practise solutions repository
 | [0127-word-ladder](https://github.com/shubhams821/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/shubhams821/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Graph
 |  |
@@ -521,11 +524,13 @@ my leetcode practise solutions repository
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
@@ -576,4 +581,16 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0729-my-calendar-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
