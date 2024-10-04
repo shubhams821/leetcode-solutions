@@ -378,6 +378,7 @@ my leetcode practise solutions repository
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shubhams821/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -507,6 +508,7 @@ my leetcode practise solutions repository
 | [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Graph
 |  |
 | ------- |
@@ -524,6 +526,7 @@ my leetcode practise solutions repository
 | [0125-valid-palindrome](https://github.com/shubhams821/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
@@ -537,6 +540,7 @@ my leetcode practise solutions repository
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
