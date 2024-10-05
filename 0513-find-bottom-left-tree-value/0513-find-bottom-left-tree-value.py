@@ -6,17 +6,16 @@
 #         self.right = right
 class Solution:
     def findBottomLeftValue(self, root: Optional[TreeNode]) -> int:
+        queue = deque([root])
         res = []
-        q = collections.deque([root])
-        while q:
-            leftSide = None
-            qLen = len(q)
-            for i in range(qLen):
-                node = q.popleft()
+        while queue:
+            temp = []
+            for i in range(len(queue)):
+                node = queue.popleft()
                 if node:
-                    leftSide = node
-                    q.append(node.right)
-                    q.append(node.left)
-            if leftSide:
-                res.append(leftSide.val)
-        return res[-1]
+                    queue.append(node.left)
+                    queue.append(node.right)
+                    temp.append(node.val)
+            if temp:
+                res.append(temp)
+        return res[-1][0]
