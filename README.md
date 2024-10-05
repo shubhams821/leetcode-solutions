@@ -419,6 +419,7 @@ my leetcode practise solutions repository
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
@@ -455,6 +456,7 @@ my leetcode practise solutions repository
 | [0735-asteroid-collision](https://github.com/shubhams821/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -564,6 +566,7 @@ my leetcode practise solutions repository
 | [0326-power-of-three](https://github.com/shubhams821/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shubhams821/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/shubhams821/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Interactive
 |  |
 | ------- |
