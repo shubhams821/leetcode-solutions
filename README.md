@@ -232,6 +232,7 @@ my leetcode practise solutions repository
 | [0543-diameter-of-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -295,6 +296,7 @@ my leetcode practise solutions repository
 | [0617-merge-two-binary-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/shubhams821/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shubhams821/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
