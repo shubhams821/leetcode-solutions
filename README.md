@@ -387,6 +387,7 @@ my leetcode practise solutions repository
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1706-min-cost-to-connect-all-points](https://github.com/shubhams821/leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -429,6 +430,7 @@ my leetcode practise solutions repository
 | [0567-permutation-in-string](https://github.com/shubhams821/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Backtracking
 |  |
@@ -542,6 +544,7 @@ my leetcode practise solutions repository
 | [0125-valid-palindrome](https://github.com/shubhams821/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/shubhams821/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
