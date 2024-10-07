@@ -432,6 +432,7 @@ my leetcode practise solutions repository
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shubhams821/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -451,6 +452,7 @@ my leetcode practise solutions repository
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shubhams821/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -469,6 +471,7 @@ my leetcode practise solutions repository
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/shubhams821/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
 | ------- |
