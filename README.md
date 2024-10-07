@@ -475,6 +475,7 @@ my leetcode practise solutions repository
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shubhams821/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shubhams821/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubhams821/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -580,6 +581,7 @@ my leetcode practise solutions repository
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shubhams821/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shubhams821/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/shubhams821/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shubhams821/leetcode-solutions/tree/master/0326-power-of-three) |
