@@ -341,6 +341,7 @@ my leetcode practise solutions repository
 | [0064-minimum-path-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
@@ -361,6 +362,7 @@ my leetcode practise solutions repository
 | [0079-word-search](https://github.com/shubhams821/leetcode-solutions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shubhams821/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/shubhams821/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/shubhams821/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/shubhams821/leetcode-solutions/tree/master/0198-house-robber) |
