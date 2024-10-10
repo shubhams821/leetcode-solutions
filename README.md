@@ -349,6 +349,7 @@ my leetcode practise solutions repository
 | [0221-maximal-square](https://github.com/shubhams821/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/shubhams821/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/shubhams821/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/shubhams821/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -613,6 +614,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0078-subsets](https://github.com/shubhams821/leetcode-solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shubhams821/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/shubhams821/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shubhams821/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0899-binary-gap](https://github.com/shubhams821/leetcode-solutions/tree/master/0899-binary-gap) |
 ## Shortest Path
