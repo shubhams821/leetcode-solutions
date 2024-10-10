@@ -384,6 +384,7 @@ my leetcode practise solutions repository
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1002-maximum-width-ramp](https://github.com/shubhams821/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/shubhams821/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/shubhams821/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
@@ -454,6 +455,7 @@ my leetcode practise solutions repository
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/shubhams821/leetcode-solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1002-maximum-width-ramp](https://github.com/shubhams821/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shubhams821/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -462,6 +464,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/shubhams821/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/shubhams821/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhams821/leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
