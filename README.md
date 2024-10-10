@@ -350,6 +350,7 @@ my leetcode practise solutions repository
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0337-house-robber-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/shubhams821/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/shubhams821/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/shubhams821/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -374,6 +375,7 @@ my leetcode practise solutions repository
 | [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/shubhams821/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shubhams821/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shubhams821/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
