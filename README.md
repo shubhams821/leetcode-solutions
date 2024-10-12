@@ -397,6 +397,7 @@ my leetcode practise solutions repository
 | [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhams821/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
 |  |
@@ -564,6 +565,7 @@ my leetcode practise solutions repository
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
@@ -579,6 +581,7 @@ my leetcode practise solutions repository
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/shubhams821/leetcode-solutions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
@@ -593,6 +596,7 @@ my leetcode practise solutions repository
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhams821/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
 |  |
 | ------- |
@@ -661,4 +665,12 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
