@@ -1,10 +1,10 @@
 class Solution:
     def smallestChair(self, times: List[List[int]], targetFriend: int) -> int:
-        times = [(t[0], t[1], i) for i,t in enumerate(times)]
+        times = [(t[0], t[1], i) for i, t in enumerate(times)]
         times.sort()
 
-        used_chair = []    #(leave, chair)
-        available_chair = [i for i in range(len(times))]           #(chair)
+        used_chair = []                                     #(leave, chair)
+        available_chair = [i for i in range(len(times))]    #(chair)
 
         for a,l,i in times:
             while used_chair and used_chair[0][0] <=a:
