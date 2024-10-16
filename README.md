@@ -448,6 +448,7 @@ my leetcode practise solutions repository
 | [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shubhams821/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [1304-longest-happy-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -611,6 +612,7 @@ my leetcode practise solutions repository
 | [0744-network-delay-time](https://github.com/shubhams821/leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/shubhams821/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1304-longest-happy-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhams821/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Recursion
@@ -686,6 +688,7 @@ my leetcode practise solutions repository
 | ------- |
 | [0055-jump-game](https://github.com/shubhams821/leetcode-solutions/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhams821/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/shubhams821/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
