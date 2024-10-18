@@ -354,6 +354,7 @@ my leetcode practise solutions repository
 | [0337-house-robber-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/shubhams821/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shubhams821/leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/shubhams821/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/shubhams821/leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
@@ -385,6 +386,7 @@ my leetcode practise solutions repository
 | [0416-partition-equal-subset-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shubhams821/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/shubhams821/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shubhams821/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/shubhams821/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/shubhams821/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -446,6 +448,7 @@ my leetcode practise solutions repository
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhams821/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/shubhams821/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/shubhams821/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/shubhams821/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1304-longest-happy-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1304-longest-happy-string) |
