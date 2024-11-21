@@ -407,6 +407,7 @@ my leetcode practise solutions repository
 | [1923-sentence-similarity-iii](https://github.com/shubhams821/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/shubhams821/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/shubhams821/leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shubhams821/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/shubhams821/leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -497,6 +498,7 @@ my leetcode practise solutions repository
 | [0983-validate-stack-sequences](https://github.com/shubhams821/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/shubhams821/leetcode-solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/shubhams821/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shubhams821/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/shubhams821/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
@@ -532,6 +534,7 @@ my leetcode practise solutions repository
 | [0971-shortest-bridge](https://github.com/shubhams821/leetcode-solutions/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/shubhams821/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1380-number-of-closed-islands](https://github.com/shubhams821/leetcode-solutions/tree/master/1380-number-of-closed-islands) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/shubhams821/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Linked List
 |  |
 | ------- |
