@@ -339,6 +339,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shubhams821/leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shubhams821/leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shubhams821/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -504,6 +505,7 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shubhams821/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shubhams821/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/shubhams821/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shubhams821/leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -701,4 +703,8 @@ my leetcode practise solutions repository
 |  |
 | ------- |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/shubhams821/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shubhams821/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
